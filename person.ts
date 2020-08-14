@@ -1,4 +1,4 @@
-import { IPerson } from "./iperson"
+import { IPerson } from "./iperson.js"
 
 export class Person implements IPerson {
     name: string;
